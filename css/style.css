@@ -14,3 +14,9 @@
   left: 100%;
   background-color: var(--slider-image-overlay, rgba(0, 0, 0, 0.5));
 }
+.fa-star {
+  color: goldenrod;
+}
+.fa-star-half-stroke {
+  color: goldenrod;
+}
