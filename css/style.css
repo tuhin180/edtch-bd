@@ -10,8 +10,8 @@
   width: 100%;
   height: 100%;
   position: absolute;
-  top: 100%;
-  left: 100%;
+  top: 0;
+  left: 0;
   background-color: var(--slider-image-overlay, rgba(0, 0, 0, 0.5));
 }
 .fa-star {
@@ -19,4 +19,7 @@
 }
 .fa-star-half-stroke {
   color: goldenrod;
+}
+.button-text {
+  color: white;
 }
